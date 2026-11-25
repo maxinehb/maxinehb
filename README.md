@@ -8,7 +8,6 @@
 Emory University · Exams P & FM Passed
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BBD7F0?style=for-the-badge&logo=linkedin&logoColor=365776)](https://www.linkedin.com/in/maxine-hakimi-bulson/)
-[![Email](https://img.shields.io/badge/Email-BBD7F0?style=for-the-badge&logo=icloud&logoColor=365776)](mailto:maxinehbs@icloud.com)
 
 </div>
 
